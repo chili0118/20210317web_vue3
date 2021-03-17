@@ -6,6 +6,7 @@ https://chili0118.github.io/20210317web_vue3/
 # CDN
 ```
 <script src="https://unpkg.com/vue@next"></script>
+<script src="https://chili0118.github.io/20210317web_vue3/main.js"></script>
 ```
 
 # 說明
